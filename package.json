@@ -1,0 +1,15 @@
+{
+	"name": "crc32",
+	"version": "1.0.0",
+	"description": "Simple CRC32 method for Javascript",
+	"author": "Multiple",
+	"keywords": [
+		"crc",
+		"crc32",
+		"hash"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ugoku/crc32.git"
+	}
+}
