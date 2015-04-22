@@ -1,8 +1,9 @@
 {
 	"name": "crc32",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Simple CRC32 method for Javascript",
 	"author": "Multiple",
+	"main": "crc32.js",
 	"keywords": [
 		"crc",
 		"crc32",
